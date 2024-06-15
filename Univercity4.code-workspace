@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Univercity3"
+		},
+		{
+			"path": "../Univercity1"
+		},
+		{
+			"path": "../../vpnbomb/public_html"
+		}
+	],
+	"settings": {}
+}

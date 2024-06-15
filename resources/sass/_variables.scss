@@ -1,0 +1,20 @@
+// Fonts
+@font-face {
+    font-family: 'Shabnam';
+    src: url('../Fonts/Shabnam/Farsi-Digits/Shabnam-FD.eot'); /* IE9 Compat Modes */
+    src: url('../Fonts/Shabnam/Farsi-Digits/Shabnam-FD.woff2') format('woff2'), /* Super Modern Browsers */
+           url('../Fonts/Shabnam/Farsi-Digits/Shabnam-FD.woff') format('woff'), /* Pretty Modern Browsers */
+           url('../Fonts/Shabnam/Farsi-Digits/Shabnam-FD.ttf')  format('truetype'), /* Safari, Android, iOS */
+}
+
+@font-face {
+    font-family: 'Vazir';
+    src: url('../Fonts/Vazir/Farsi-Digits-Without-Latin/Vazir-FD-WOL.eot'); /* IE9 Compat Modes */
+    src: url('../Fonts/Vazir/Farsi-Digits-Without-Latin/Vazir-FD-WOL.woff2') format('woff2'), /* Super Modern Browsers */
+           url('../Fonts/Vazir/Farsi-Digits-Without-Latin/Vazir-FD-WOL.woff') format('woff'), /* Pretty Modern Browsers */
+           url('../Fonts/Vazir/Farsi-Digits-Without-Latin/Vazir-FD-WOL.ttf')  format('truetype'), /* Safari, Android, iOS */
+}
+
+body{
+    font-family: 'Shabnam' , 'Vazir';
+}
